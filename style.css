@@ -305,7 +305,7 @@ button.white{
     justify-content: center;
     align-items: flex-start;
     background-image: url("img/banner/b17.jpg");
-    min-width: 900px;
+    min-width: 700px;
     height: 50vh;
     background-size: cover;
     background-position: center;
